@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#*#",
+        "*@*",
+        "#*#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:obsidian"
+        },
+        "*": {
+            "item": "minecraft:amethyst_block"
+        },
+        "@": {
+            "item": "minecraft:debug_stick"
+        }
+    },
+    "result": {
+        "item": "minecraft:structure_block",
+        "count": 1
+    }
+}
