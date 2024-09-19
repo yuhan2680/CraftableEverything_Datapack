@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "@#@",
+        "#*#",
+        "@#@"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:obsidian"
+        },
+        "*": {
+            "item": "minecraft:deepslate"
+        },
+        "@": {
+            "item": "minecraft:quartz"
+        }
+    },
+    "result": {
+        "item": "minecraft:reinforced_deepslate",
+        "count": 4
+    }
+}
